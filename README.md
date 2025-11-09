@@ -17,5 +17,5 @@ mv FavouritesSite/* ./ 2>/dev/null || true
 rm -rf FavouritesSite
 ```
 ```bash
-chmod 755 uploads chmod 666 messages.json
+chmod 755 uploads && chmod 666 messages.json
 ```
