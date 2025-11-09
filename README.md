@@ -4,6 +4,8 @@
 🖇️ `/текст/` - отправить текст с функцией быстрого копирования.
 
 **Установка:**
-1. ```cd public_html```
-2. ```git clone https://github.com/kage-kao/FavouritesSite.git```
-3. ```chmod 755 uploads chmod 666 messages.json```
+1. ```bash
+   cd public_html
+   ```
+3. ```git clone https://github.com/kage-kao/FavouritesSite.git```
+4. ```chmod 755 uploads chmod 666 messages.json```
