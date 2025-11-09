@@ -6,10 +6,13 @@
 **Установка:**
 1.
 ```bash
-   cd public_html
+cd public_html
 ```
-
-3.
+2.
+```bash
+git clone https://github.com/kage-kao/FavouritesSite.git
+```
+2.
 ```bash
 chmod 755 uploads chmod 666 messages.json
 ```
