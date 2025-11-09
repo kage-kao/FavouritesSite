@@ -8,7 +8,7 @@
    cd public_html
 . ```bash
 git clone https://github.com/kage-kao/FavouritesSite.git
-```
-```bash
+
+3. ```bash
 chmod 755 uploads chmod 666 messages.json
 ```
